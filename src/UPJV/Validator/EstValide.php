@@ -1,13 +1,12 @@
 <?php
+
 /**
- * PHP version 8.0.1
- * Création class EstValide
- * 
- * @category MyCategory
- * @package  Applies_To_ValidatorInterface
- * @author   Corentin <adressemail@gmail.com>
- * @license  https://opensource.org/licenses/gpl-license.php GNU Public License
- * @link     http://example.com/my/bar
+ * This file is part of the Symfony package.
+ *
+ * (c) Fabien Potencier <fabien@symfony.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace UPJV\Validator;
