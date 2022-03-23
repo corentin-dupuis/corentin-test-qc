@@ -16,7 +16,7 @@ namespace UPJV\Validator;
  * Class EstValide implémente les méthode build & check
  */
 class EstValide implements ValidatorInterface
-{    
+{ 
     /**
      * Regarde si le mot est une chaine de caractère
      * 
@@ -36,7 +36,7 @@ class EstValide implements ValidatorInterface
       * 
       * @return function
       */  
-    public function check($input): bool 
+    public function check($input): bool
     {
         return true;
     }
