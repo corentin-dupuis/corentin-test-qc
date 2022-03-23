@@ -2,8 +2,6 @@
 
 /**
  * Vérifie que la taille de la chaine comporte au moins 2 caractères
- * 
- * 
  */
 
 namespace UPJV\Validator;
